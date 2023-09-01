@@ -1,6 +1,4 @@
-# Welcome to the Root Cellar
-
-## Bylaws
+# Bylaws
 
 1. Denizens of the Root Cellar will gather in the hallway on the highest floor of Building 680
 2. BYOB
@@ -8,4 +6,4 @@
 4. The resident of Room 2142 is the host and proprietor of the Root Cellar
 5. The host and proprieter need not be aware of the Root Cellar's existence
 6. Denizens should create a sign and decorate the Cellar as the spirit moves them
-7. Denizens are honor-bound to contribute pictures of their efforts to the Google Maps page
+7. Denizens are honor-bound to contribute pictures of their efforts on <a href="https://goo.gl/maps/diqp7D8vkK1mAk146">Google Maps</a>
