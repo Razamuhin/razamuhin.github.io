@@ -5,5 +5,6 @@ plugins:
 github:
   is_project_page: false
 
-title: [The Root Cellar]
-description: [Glad you could turn up]
+name: ""
+title: The Root Cellar
+description: Glad you could turn up!
