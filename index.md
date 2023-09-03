@@ -1,3 +1,7 @@
+---
+layout: page
+---
+
 # Welcome
 
 ![Welcome to the Root Cellar](images/The_Root_Cellar.png)
