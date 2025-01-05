@@ -21,4 +21,4 @@ layout: default
 
 # Bequeathing of the Turnip
 
-Many of the Root Cellar's Denizens are SOS students. At some gathering before the end of a given SOS class, these students should nominate instructors to be honored by the Cellar. The instructor chosen for recognition should be presented with a turnip at the final class of that SOS group. The presenter will say simply: "The Root Cellar recognizes and thanks you." No further explanation is permitted.
+Many of the Root Cellar's Denizens are SOS students. At some gathering before the end of a given SOS class, these students should nominate instructors to be honored by the Cellar. The instructor chosen for recognition should be presented with a turnip on the final day of that SOS class. The presenter will say simply: "Thanks for turning up." No further explanation is permitted.
